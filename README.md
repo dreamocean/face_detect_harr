@@ -1,2 +1,2 @@
 # face_detect_harr
-face detect by harrcascade
+基于opencv的harrcascade做人脸检测
